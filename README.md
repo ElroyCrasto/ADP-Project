@@ -1,4 +1,6 @@
-# Test Repo
+# ADP Project
 
+Creating a Grocery story GUI with Tkinter and Python with Databse Intergration
 
-Some Description
+Tkinter - GUI module
+MySQL - Database
